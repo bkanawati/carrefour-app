@@ -6,9 +6,8 @@ carrefour Login page
 
 
 
-
-
-Accomplished
+A list of what I did.
+Accomplished:
 - validation of username or password
 - search bar
 - checkbox
@@ -16,11 +15,7 @@ Accomplished
 - aligning the Ads at the bottom evenly
 
 
-
-
-
 extensions for the future
-
--add a database
--fix the search bar 
+- add a database
+- fix the search bar 
 
