@@ -1,7 +1,7 @@
 # carrefour-app
 carrefour Login page
 
-###Please follow these steps:
+## Please follow these steps:
 - npm install
 - npm run server
 
@@ -9,7 +9,7 @@ carrefour Login page
 
 
 
-###Accomplished:
+### Accomplished:
 - validation of username or password
 - search bar
 - checkbox
@@ -17,7 +17,7 @@ carrefour Login page
 - aligning the Ads at the bottom evenly
 
 
-###extensions for the future
+### Extensions for the future
 - add a database
 - fix the search bar 
 
