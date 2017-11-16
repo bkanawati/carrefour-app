@@ -6,7 +6,7 @@ carrefour Login page
 
 
 
-Accomplished:
+Accomplished
 -validation of username or password
 -search bar
 -checkbox
@@ -15,7 +15,7 @@ Accomplished:
 
 
 
-extensions for the future:
+extensions for the future
 -add a database
 -fix the search bar 
 
