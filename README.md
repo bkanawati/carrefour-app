@@ -9,12 +9,11 @@ carrefour Login page
 
 
 Accomplished
-
--validation of username or password
--search bar
--checkbox
--forgot password
--aligning the Ads at the bottom evenly
+- validation of username or password
+- search bar
+- checkbox
+- forgot password
+- aligning the Ads at the bottom evenly
 
 
 
