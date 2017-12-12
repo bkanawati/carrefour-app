@@ -1,5 +1,6 @@
 # carrefour-app
 carrefour Login page
+Used React, Express, babel
 
 ## Please follow these steps:
 - npm install
